@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-681de": {
+      "hosting": {
+        "angular-firebase-demo": [
+          "angular-681de"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-681de"
+  }
+}
